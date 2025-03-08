@@ -1,0 +1,9 @@
+Dokumentasi Web Kelarin
+========================
+
+Palette Warna
+-------------
+
+Logo 		: #f47d58
+Bacground 	: #1e154c
+
